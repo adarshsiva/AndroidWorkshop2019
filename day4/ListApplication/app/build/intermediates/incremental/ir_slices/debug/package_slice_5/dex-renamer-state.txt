@@ -1,0 +1,4 @@
+#Tue May 28 15:16:10 IST 2019
+base.0=/Users/adarsh/Documents/Workshop/day4/ListApplication/app/build/intermediates/transforms/dexMerger/debug/5
+path.0=classes.dex
+renamed.0=classes.dex

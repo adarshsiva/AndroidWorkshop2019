@@ -1,0 +1,160 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/adarsh/Documents/Workshop/day4/androidstudio/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/adarsh/Documents/Workshop/day4/androidstudio/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/adarsh/Documents/Workshop/day4/androidstudio/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/adarsh/Documents/Workshop/day4/androidstudio/app/src/main/AndroidManifest.xml:2:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/adarsh/.gradle/caches/transforms-2/files-2.1/28c149b83a3c1b6945d8e3d0089f53dd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/adarsh/.gradle/caches/transforms-2/files-2.1/da89c73095adb3fc1d14da2d5908fa69/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/adarsh/.gradle/caches/transforms-2/files-2.1/20bfe3c0358bd2ed71b9eb64b3621a32/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/adarsh/.gradle/caches/transforms-2/files-2.1/e7d4133348eb7b8be657fd6ae58c7175/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/adarsh/.gradle/caches/transforms-2/files-2.1/134b582205175e321d5e5c67983262b8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/adarsh/.gradle/caches/transforms-2/files-2.1/f990fbae2658decb5f4fec343e8e34c8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/adarsh/.gradle/caches/transforms-2/files-2.1/f08802f1a8cb183d72efa5b8ac809b16/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/adarsh/.gradle/caches/transforms-2/files-2.1/9e339682e2cbf9390d43efefd9d86a87/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/adarsh/.gradle/caches/transforms-2/files-2.1/1e90a2a5c75e17e875eb620025e879a3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/adarsh/.gradle/caches/transforms-2/files-2.1/1c38246ce94474dd7cbe185e3f73b033/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/adarsh/.gradle/caches/transforms-2/files-2.1/d5df5fc1d7d406df5bcc9a08c6e50a55/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/adarsh/.gradle/caches/transforms-2/files-2.1/ab090c22b1af4fb29a0eee5501052722/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/adarsh/.gradle/caches/transforms-2/files-2.1/089f26dc4c6c3f16491c46bec8d28ffd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/adarsh/.gradle/caches/transforms-2/files-2.1/da5faa74586eca1758c32857eeedc118/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/adarsh/.gradle/caches/transforms-2/files-2.1/91c2cda650f5284fc4fc98c94b60c6f4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/adarsh/.gradle/caches/transforms-2/files-2.1/2846a810681ea5776a582055131bfff5/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/adarsh/.gradle/caches/transforms-2/files-2.1/7fc6968f1ccd5d77779eb8bda41d2fad/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/adarsh/.gradle/caches/transforms-2/files-2.1/83acb4d52ef993780a83537da7789f74/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/adarsh/.gradle/caches/transforms-2/files-2.1/3b70521729fe7f34e27eb7927d1f3124/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/adarsh/.gradle/caches/transforms-2/files-2.1/639512af2647b86af8f45688eeb9a118/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/adarsh/.gradle/caches/transforms-2/files-2.1/24cddcb32a76779302eeea837f7fc56c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/adarsh/.gradle/caches/transforms-2/files-2.1/959932416df339fbc5bdf7b53312e0d1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/adarsh/.gradle/caches/transforms-2/files-2.1/d7787639826232e39f1d95ab1c91c8d3/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/adarsh/.gradle/caches/transforms-2/files-2.1/97d64c3e14f4c7ad81c1212bc7aba224/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/adarsh/.gradle/caches/transforms-2/files-2.1/af90346b749a3827d7404c5859a52058/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/adarsh/.gradle/caches/transforms-2/files-2.1/4d61cb0634b532d2a6ed65b8c126804e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/adarsh/.gradle/caches/transforms-2/files-2.1/523a5895be6c51df7370bc50f1e9e129/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/adarsh/Documents/Workshop/day4/androidstudio/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/adarsh/Documents/Workshop/day4/androidstudio/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/adarsh/Documents/Workshop/day4/androidstudio/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /Users/adarsh/Documents/Workshop/day4/androidstudio/app/src/main/AndroidManifest.xml:3:5-48
+		INJECTED from /Users/adarsh/Documents/Workshop/day4/androidstudio/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/adarsh/Documents/Workshop/day4/androidstudio/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/adarsh/Documents/Workshop/day4/androidstudio/app/src/main/AndroidManifest.xml
+		ADDED from /Users/adarsh/Documents/Workshop/day4/androidstudio/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/adarsh/Documents/Workshop/day4/androidstudio/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/adarsh/Documents/Workshop/day4/androidstudio/app/src/main/AndroidManifest.xml
+		ADDED from /Users/adarsh/Documents/Workshop/day4/androidstudio/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/adarsh/Documents/Workshop/day4/androidstudio/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/adarsh/Documents/Workshop/day4/androidstudio/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/adarsh/Documents/Workshop/day4/androidstudio/app/src/main/AndroidManifest.xml:5:5-22:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/adarsh/.gradle/caches/transforms-2/files-2.1/da89c73095adb3fc1d14da2d5908fa69/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/adarsh/.gradle/caches/transforms-2/files-2.1/da89c73095adb3fc1d14da2d5908fa69/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/adarsh/.gradle/caches/transforms-2/files-2.1/2846a810681ea5776a582055131bfff5/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/adarsh/.gradle/caches/transforms-2/files-2.1/2846a810681ea5776a582055131bfff5/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/adarsh/.gradle/caches/transforms-2/files-2.1/7fc6968f1ccd5d77779eb8bda41d2fad/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/adarsh/.gradle/caches/transforms-2/files-2.1/7fc6968f1ccd5d77779eb8bda41d2fad/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/adarsh/.gradle/caches/transforms-2/files-2.1/2846a810681ea5776a582055131bfff5/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/adarsh/Documents/Workshop/day4/androidstudio/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/adarsh/Documents/Workshop/day4/androidstudio/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/adarsh/Documents/Workshop/day4/androidstudio/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/adarsh/Documents/Workshop/day4/androidstudio/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/adarsh/Documents/Workshop/day4/androidstudio/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/adarsh/Documents/Workshop/day4/androidstudio/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.helloworldapplication.MainActivity
+ADDED from /Users/adarsh/Documents/Workshop/day4/androidstudio/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/adarsh/Documents/Workshop/day4/androidstudio/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/adarsh/Documents/Workshop/day4/androidstudio/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/adarsh/Documents/Workshop/day4/androidstudio/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/adarsh/Documents/Workshop/day4/androidstudio/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/adarsh/Documents/Workshop/day4/androidstudio/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/adarsh/Documents/Workshop/day4/androidstudio/app/src/main/AndroidManifest.xml:16:27-74
+meta-data#preloaded_fonts
+ADDED from /Users/adarsh/Documents/Workshop/day4/androidstudio/app/src/main/AndroidManifest.xml:19:9-21:57
+	android:resource
+		ADDED from /Users/adarsh/Documents/Workshop/day4/androidstudio/app/src/main/AndroidManifest.xml:21:13-54
+	android:name
+		ADDED from /Users/adarsh/Documents/Workshop/day4/androidstudio/app/src/main/AndroidManifest.xml:20:13-43
+uses-sdk
+INJECTED from /Users/adarsh/Documents/Workshop/day4/androidstudio/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/adarsh/Documents/Workshop/day4/androidstudio/app/src/main/AndroidManifest.xml
+INJECTED from /Users/adarsh/Documents/Workshop/day4/androidstudio/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/adarsh/.gradle/caches/transforms-2/files-2.1/28c149b83a3c1b6945d8e3d0089f53dd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/adarsh/.gradle/caches/transforms-2/files-2.1/28c149b83a3c1b6945d8e3d0089f53dd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/adarsh/.gradle/caches/transforms-2/files-2.1/da89c73095adb3fc1d14da2d5908fa69/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/adarsh/.gradle/caches/transforms-2/files-2.1/da89c73095adb3fc1d14da2d5908fa69/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/adarsh/.gradle/caches/transforms-2/files-2.1/20bfe3c0358bd2ed71b9eb64b3621a32/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/adarsh/.gradle/caches/transforms-2/files-2.1/20bfe3c0358bd2ed71b9eb64b3621a32/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/adarsh/.gradle/caches/transforms-2/files-2.1/e7d4133348eb7b8be657fd6ae58c7175/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/adarsh/.gradle/caches/transforms-2/files-2.1/e7d4133348eb7b8be657fd6ae58c7175/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/adarsh/.gradle/caches/transforms-2/files-2.1/134b582205175e321d5e5c67983262b8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/adarsh/.gradle/caches/transforms-2/files-2.1/134b582205175e321d5e5c67983262b8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/adarsh/.gradle/caches/transforms-2/files-2.1/f990fbae2658decb5f4fec343e8e34c8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/adarsh/.gradle/caches/transforms-2/files-2.1/f990fbae2658decb5f4fec343e8e34c8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/adarsh/.gradle/caches/transforms-2/files-2.1/f08802f1a8cb183d72efa5b8ac809b16/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/adarsh/.gradle/caches/transforms-2/files-2.1/f08802f1a8cb183d72efa5b8ac809b16/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/adarsh/.gradle/caches/transforms-2/files-2.1/9e339682e2cbf9390d43efefd9d86a87/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/adarsh/.gradle/caches/transforms-2/files-2.1/9e339682e2cbf9390d43efefd9d86a87/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/adarsh/.gradle/caches/transforms-2/files-2.1/1e90a2a5c75e17e875eb620025e879a3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/adarsh/.gradle/caches/transforms-2/files-2.1/1e90a2a5c75e17e875eb620025e879a3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/adarsh/.gradle/caches/transforms-2/files-2.1/1c38246ce94474dd7cbe185e3f73b033/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/adarsh/.gradle/caches/transforms-2/files-2.1/1c38246ce94474dd7cbe185e3f73b033/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/adarsh/.gradle/caches/transforms-2/files-2.1/d5df5fc1d7d406df5bcc9a08c6e50a55/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/adarsh/.gradle/caches/transforms-2/files-2.1/d5df5fc1d7d406df5bcc9a08c6e50a55/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/adarsh/.gradle/caches/transforms-2/files-2.1/ab090c22b1af4fb29a0eee5501052722/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/adarsh/.gradle/caches/transforms-2/files-2.1/ab090c22b1af4fb29a0eee5501052722/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/adarsh/.gradle/caches/transforms-2/files-2.1/089f26dc4c6c3f16491c46bec8d28ffd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/adarsh/.gradle/caches/transforms-2/files-2.1/089f26dc4c6c3f16491c46bec8d28ffd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/adarsh/.gradle/caches/transforms-2/files-2.1/da5faa74586eca1758c32857eeedc118/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/adarsh/.gradle/caches/transforms-2/files-2.1/da5faa74586eca1758c32857eeedc118/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/adarsh/.gradle/caches/transforms-2/files-2.1/91c2cda650f5284fc4fc98c94b60c6f4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/adarsh/.gradle/caches/transforms-2/files-2.1/91c2cda650f5284fc4fc98c94b60c6f4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/adarsh/.gradle/caches/transforms-2/files-2.1/2846a810681ea5776a582055131bfff5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/adarsh/.gradle/caches/transforms-2/files-2.1/2846a810681ea5776a582055131bfff5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/adarsh/.gradle/caches/transforms-2/files-2.1/7fc6968f1ccd5d77779eb8bda41d2fad/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/adarsh/.gradle/caches/transforms-2/files-2.1/7fc6968f1ccd5d77779eb8bda41d2fad/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/adarsh/.gradle/caches/transforms-2/files-2.1/83acb4d52ef993780a83537da7789f74/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/adarsh/.gradle/caches/transforms-2/files-2.1/83acb4d52ef993780a83537da7789f74/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/adarsh/.gradle/caches/transforms-2/files-2.1/3b70521729fe7f34e27eb7927d1f3124/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/adarsh/.gradle/caches/transforms-2/files-2.1/3b70521729fe7f34e27eb7927d1f3124/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/adarsh/.gradle/caches/transforms-2/files-2.1/639512af2647b86af8f45688eeb9a118/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/adarsh/.gradle/caches/transforms-2/files-2.1/639512af2647b86af8f45688eeb9a118/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/adarsh/.gradle/caches/transforms-2/files-2.1/24cddcb32a76779302eeea837f7fc56c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/adarsh/.gradle/caches/transforms-2/files-2.1/24cddcb32a76779302eeea837f7fc56c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/adarsh/.gradle/caches/transforms-2/files-2.1/959932416df339fbc5bdf7b53312e0d1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/adarsh/.gradle/caches/transforms-2/files-2.1/959932416df339fbc5bdf7b53312e0d1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/adarsh/.gradle/caches/transforms-2/files-2.1/d7787639826232e39f1d95ab1c91c8d3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/adarsh/.gradle/caches/transforms-2/files-2.1/d7787639826232e39f1d95ab1c91c8d3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/adarsh/.gradle/caches/transforms-2/files-2.1/97d64c3e14f4c7ad81c1212bc7aba224/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/adarsh/.gradle/caches/transforms-2/files-2.1/97d64c3e14f4c7ad81c1212bc7aba224/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/adarsh/.gradle/caches/transforms-2/files-2.1/af90346b749a3827d7404c5859a52058/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/adarsh/.gradle/caches/transforms-2/files-2.1/af90346b749a3827d7404c5859a52058/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/adarsh/.gradle/caches/transforms-2/files-2.1/4d61cb0634b532d2a6ed65b8c126804e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/adarsh/.gradle/caches/transforms-2/files-2.1/4d61cb0634b532d2a6ed65b8c126804e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/adarsh/.gradle/caches/transforms-2/files-2.1/523a5895be6c51df7370bc50f1e9e129/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/adarsh/.gradle/caches/transforms-2/files-2.1/523a5895be6c51df7370bc50f1e9e129/AndroidManifest.xml:20:5-44
+INJECTED from /Users/adarsh/Documents/Workshop/day4/androidstudio/app/src/main/AndroidManifest.xml
+INJECTED from /Users/adarsh/Documents/Workshop/day4/androidstudio/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/adarsh/Documents/Workshop/day4/androidstudio/app/src/main/AndroidManifest.xml
+		ADDED from /Users/adarsh/Documents/Workshop/day4/androidstudio/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/adarsh/Documents/Workshop/day4/androidstudio/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/adarsh/Documents/Workshop/day4/androidstudio/app/src/main/AndroidManifest.xml
+		ADDED from /Users/adarsh/Documents/Workshop/day4/androidstudio/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/adarsh/Documents/Workshop/day4/androidstudio/app/src/main/AndroidManifest.xml

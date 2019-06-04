@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#466F2B"
+    android:orientation="vertical"
+    android:padding="15dp"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/joke" />
+
+
+    <Button
+        android:id="@+id/button"
+        style="@style/Widget.AppCompat.Button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#F9A825"
+        android:fontFamily="@font/abril_fatface"
+        android:longClickable="true"
+        android:onClick="generate"
+        android:text="Generate Joke"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body2" />
+
+    <TextView
+        android:id="@+id/tv_setup"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_gravity="center"
+        android:layout_weight="3"
+        android:background="#00F8E8E8"
+        android:fontFamily="@font/abril_fatface"
+        android:gravity="center"
+        android:text="Think"
+        android:textColor="#880D42"
+        android:textSize="28sp" />
+
+    <TextView
+        android:id="@+id/tv_punch_line"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_gravity="center"
+        android:layout_weight="3"
+        android:fontFamily="@font/abril_fatface"
+        android:gravity="center"
+        android:text="Joke"
+        android:textColor="#0D22BE"
+        android:textSize="28sp" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:textSize="20sp"
+        android:id="@+id/type"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:fontFamily="@font/abril_fatface"/>
+
+</LinearLayout>
