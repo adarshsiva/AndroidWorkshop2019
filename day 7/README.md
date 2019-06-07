@@ -9,3 +9,4 @@
 * Constructors in Dart.
 * Basics of Dart.
 * [Examples](https://github.com/adarshsiva/AndroidWorkshop2019/blob/master/day%207/fruits.dart) in Dart.
+* Factory keyword.
